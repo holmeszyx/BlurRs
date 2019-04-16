@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlurRs</string>
+
+    <string name="sample">Sample (8): %1$d</string>
+    <string name="radius">Blur Radius (25): %1$d</string>
+    <string name="size_tip">%1$s --> %2$s</string>
+</resources>
